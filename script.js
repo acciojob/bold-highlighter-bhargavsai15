@@ -9,7 +9,7 @@ console.log(boldElements);
 function highlight(event) {
   //Write your code here
   for (let i = 0; i < boldElements.length; i++){
-    boldElements[i].style.color = 'lightgreen';
+    boldElements[i].style.color = 'rgb(0, 128, 0)';
   }
 }
 
